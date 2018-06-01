@@ -7,14 +7,6 @@
       </type>
       <type name="BitField3" kind="BITFIELD" base="INT" bits="">
       </type>
-      <type name="BitField4" kind="BITFIELD" base="INT" bits="">
-      </type>
-      <type name="BitField5" kind="BITFIELD" base="INT" bits="">
-      </type>
-      <type name="BitField6" kind="BITFIELD" base="INT" bits="">
-      </type>
-      <type name="BitField7" kind="BITFIELD" base="INT" bits="">
-      </type>
       <type name="NewStructure" kind="STRUCT" desc="">
       </type>
       <type name="NewStructure1" kind="STRUCT" desc="">
