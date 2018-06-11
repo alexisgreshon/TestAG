@@ -3,7 +3,7 @@
    <types>
       <type name="BitField1" kind="BITFIELD" base="INT" bits="">
       </type>
-      <type name="BitField1" kind="BITFIELD" base="INT" bits="">
+      <type name="BitField2" kind="BITFIELD" base="INT" bits="">
       </type>
       <type name="NewStructure" kind="STRUCT" desc="">
       </type>
