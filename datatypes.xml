@@ -3,7 +3,13 @@
    <types>
       <type name="NewStructure" kind="STRUCT" desc="">
       </type>
-            <type name="TestCDFR" kind="STRUCT" desc="">
+      <type name="NewStructure1" kind="STRUCT" desc="">
+      </type>
+      <type name="NewStructure2" kind="STRUCT" desc="">
+      </type>
+      <type name="NewStructure3" kind="STRUCT" desc="">
+      </type>
+      <type name="TestCDFR" kind="STRUCT" desc="">
       </type>
    </types>
 </K5project>
