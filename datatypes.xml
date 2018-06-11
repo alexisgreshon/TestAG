@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
 <K5project version="1.1">
    <types>
+      <type name="BitField1" kind="BITFIELD" base="INT" bits="">
+      </type>
       <type name="NewStructure" kind="STRUCT" desc="">
       </type>
       <type name="NewStructure1" kind="STRUCT" desc="">
@@ -12,8 +14,6 @@
       <type name="TestCDFR" kind="STRUCT" desc="">
       </type>
       <type name="TestPK" kind="STRUCT" desc="">
-      </type>
-      <type name="TestBITFIELDS" kind="BITFIELDS" desc="">
       </type>
    </types>
 </K5project>
