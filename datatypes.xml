@@ -3,5 +3,7 @@
    <types>
       <type name="NewStructure" kind="STRUCT" desc="">
       </type>
+            <type name="TestCDFR" kind="STRUCT" desc="">
+      </type>
    </types>
 </K5project>
