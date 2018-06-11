@@ -3,5 +3,7 @@
    <types>
       <type name="NewStructure" kind="STRUCT" desc="">
       </type>
+            <type name="NewStructure2" kind="STRUCT" desc="">
+      </type>
    </types>
 </K5project>
