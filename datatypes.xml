@@ -13,5 +13,7 @@
       </type>
       <type name="TestPK" kind="STRUCT" desc="">
       </type>
+      <type name="TestBITFIELDS" kind="BITFIELDS" desc="">
+      </type>
    </types>
 </K5project>
