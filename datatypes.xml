@@ -11,5 +11,7 @@
       </type>
       <type name="TestCDFR" kind="STRUCT" desc="">
       </type>
+      <type name="TestPK" kind="STRUCT" desc="">
+      </type>
    </types>
 </K5project>
