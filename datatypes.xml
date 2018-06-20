@@ -7,6 +7,8 @@
       </type>
       <type name="ChampBits3" kind="BITFIELD" base="INT" bits="">
       </type>
+      <type name="NewStructure" kind="STRUCT" desc="">
+      </type>
       <type name="TypeEnum1" kind="ENUM">
       <enumval value="V0"/>
       <enumval value="V1"/>
