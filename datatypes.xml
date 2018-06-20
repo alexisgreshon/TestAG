@@ -9,8 +9,6 @@
       </type>
       <type name="NewStructure" kind="STRUCT" desc="">
       </type>
-      <type name="NewStructure1" kind="STRUCT" desc="">
-      </type>
       <type name="TypeEnum1" kind="ENUM">
       <enumval value="V0"/>
       <enumval value="V1"/>
